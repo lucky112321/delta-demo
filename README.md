@@ -1,2 +1,2 @@
 # delta-demo
-this is demi for Git &amp; Github class
+this is demi for Git &amp; Github class.
